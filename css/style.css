@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Oswald&display=swap');
+
+body{
+    background-image: url(../image/background.jpg)
+}
+
+header{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+}
+
+img{
+    border-radius: 8px;
+}
+
+figure{
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+}
+
+p{
+    font-family: 'Lora', serif;
+    text-align: center;
+    margin: 40px 20px 40px 20px;
+    border-style: groove;
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: black;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+	}
+
+h3{
+    text-align: right;
+    margin-right: 20px;
+}
+
